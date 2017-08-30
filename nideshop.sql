@@ -19,6 +19,10 @@
 -- Table structure for table `nideshop_ad`
 --
 
+-- 使用哪个数据库
+use nideshop;
+
+
 DROP TABLE IF EXISTS `nideshop_ad`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
