@@ -10,8 +10,8 @@ export default {
       host: '127.0.0.1',
       port: '3306',
       database: 'nideshop',
-      user: 'root',
-      password: 'root',
+      user: 'nideshop',
+      password: 'nideshop000,./',
       prefix: 'nideshop_',
       encoding: 'utf8'
     },
